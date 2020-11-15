@@ -22,10 +22,13 @@ schema. It should be custom fit compiled per useage.
 party tools  
 
 # Technincalities
-##Rust for high optimization
+## Rust for high optimization
 
-##GRPC to receive inputs
+## GRPC to receive inputs
+* Is grpc serialize/deserialize a goid choice?
+* Over quic (tcp/3) or simple tcp? Can quic help in case
+of big binary files?
 
-##Indexes and tags in sqlite
+## Indexes and tags in sqlite
 
 # Design
