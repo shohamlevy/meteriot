@@ -14,21 +14,24 @@ schema. It should be custom fit compiled per useage.
 * Optimized for bulk inserts.
 * A handful of writers, many readers.
 
-# Non objectives
+# Non Objectives
 * Storage space efficiency. Yet it should not be a hog.
 * Multi protocol, multi purpose.
-* Scale out. Only scale up. 
+* Scale out. Only scale up.
 * Replication. Rely on storage resiliency and 3rd
 party tools  
 
-# Technincalities
-## Rust for high optimization
+# Technicalities
+## Rust for highly optimised code
 
-## GRPC to receive inputs
-* Is grpc serialize/deserialize a goid choice?
-* Over quic (tcp/3) or simple tcp? Can quic help in case
-of big binary files?
+## GRPC for input inputs
+* Is grpc serialisation / deserialisation a good choice?
+* Over quic (HTTP/3) or simple tcp? Can quic help in case of big binary files?
 
 ## Indexes and tags in sqlite
+
+## Output to a standard SQL/ES DB
+* No need to invent or impleent a query language
+* Out of the box integration with other tools, such as Grafana.
 
 # Design
