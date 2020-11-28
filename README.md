@@ -35,4 +35,5 @@ party tools
 * Out of the box integration with other tools, such as Grafana.
 
 # Design
-![xyz](arch_overview.png)
+![arch_overview.png](arch_overview.png)
+<a href="http://jgraph.github.io/drawio-github/edit-diagram.html?action=open&path=arch_overview.png">Edit</a>
