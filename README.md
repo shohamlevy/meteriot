@@ -35,3 +35,4 @@ party tools
 * Out of the box integration with other tools, such as Grafana.
 
 # Design
+![Alt](arch_overview.svg)
