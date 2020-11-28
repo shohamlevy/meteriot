@@ -36,5 +36,4 @@ party tools
 
 # Design
 ![arch_overview.png](arch_overview.png)
-
-<a href="https://app.diagrams.net/?mode=github#Hshohamlevy%2Fmeteriot%2Fmain%2Farch_overview.png">Edit</a>
+<br><a href="https://app.diagrams.net/?mode=github#Hshohamlevy%2Fmeteriot%2Fmain%2Farch_overview.png">Edit</a>
