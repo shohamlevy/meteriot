@@ -19,7 +19,7 @@ schema. It should be custom fit compiled per useage.
 * Multi protocol, multi purpose.
 * Scale out. Only scale up.
 * Replication. Rely on storage resiliency and 3rd
-party tools  
+party tools
 
 # Technicalities
 ## Rust for highly optimised code
@@ -35,4 +35,4 @@ party tools
 * Out of the box integration with other tools, such as Grafana.
 
 # Design
-![xyz](/arch_overview.svg)
+![xyz](arch_overview.png)
