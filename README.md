@@ -36,4 +36,4 @@ party tools
 
 # Design
 ![arch_overview.png](arch_overview.png)
-<a href="http://jgraph.github.io/drawio-github/edit-diagram.html?action=open&path=arch_overview.png">Edit</a>
+<a href="http://jgraph.github.io/drawio-github/edit-diagram.html?repo=meteriot&action=open&path=/arch_overview.drawio">Edit</a>
