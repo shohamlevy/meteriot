@@ -35,5 +35,5 @@ party tools
 * Out of the box integration with other tools, such as Grafana.
 
 # Design
-![arch_overview.png](arch_overview.png)
-<br><a href="https://app.diagrams.net/?mode=github#Hshohamlevy%2Fmeteriot%2Fmain%2Farch_overview.png">Edit</a>
+![images/arch_overview.png](arch_overview.png)
+<br><a href="https://app.diagrams.net/?mode=github#Hshohamlevy%2Fmeteriot%2Fmain%2Fimages%2Farch_overview.png">Edit</a>
