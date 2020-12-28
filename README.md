@@ -37,3 +37,12 @@ party tools
 # Design
 ![images/arch_overview.png](images/arch_overview.png)
 <br><a href="https://app.diagrams.net/?mode=github#Hshohamlevy%2Fmeteriot%2Fmain%2Fimages%2Farch_overview.png">Edit</a>
+
+## Polled System Decription
+### Hierarchy and Scopes
+A system is made of different element types. An element can be a scope or a leaf. The only difference between a scope and a leaf is that a scope may have child elements, and a leaf may not.
+
+
+### Schema (elements and metrics)
+The schema of the TSDB is fixed, defined at compile time by the PROTOBUF.
+
